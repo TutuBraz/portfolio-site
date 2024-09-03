@@ -91,8 +91,8 @@ header nav ul li {
 
 /* Estilo dos ícones */
 .icon {
-    width: 34px;
-    height: 34px;
+    width: 50px;
+    height: 50px;
     margin-left: 8px;
     vertical-align: middle;
     transition: filter 0.3s ease;
@@ -287,7 +287,7 @@ footer .line-footer p img {
     margin-right: 10px; /* Espaçamento entre o ícone e o texto */
     width: 24px; /* Ajuste o tamanho do ícone conforme necessário */
     height: auto;
-    filter: brightness(0) saturate(100%) invert(100%) sepia(82%) saturate(2073%) hue-rotate(303deg) brightness(108%) contrast(88%);
+    
 }
 
 footer .line-footer p a {
