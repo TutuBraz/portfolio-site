@@ -287,6 +287,7 @@ footer .line-footer p img {
     margin-right: 10px; /* Espaçamento entre o ícone e o texto */
     width: 24px; /* Ajuste o tamanho do ícone conforme necessário */
     height: auto;
+    filter: brightness(0) saturate(100%) invert(100%) sepia(82%) saturate(2073%) hue-rotate(303deg) brightness(108%) contrast(88%);
     
 }
 
